@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "datasource.host",
+      "type": "java.lang.String",
+      "description": "Description for datasource.host."
+    },
+    {
+      "name": "datasource.port",
+      "type": "java.lang.Integer",
+      "description": "Description for datasource.port."
+    },
+    {
+      "name": "datasource.database",
+      "type": "java.lang.String",
+      "description": "Description for datasource.database."
+    }
+  ] }
